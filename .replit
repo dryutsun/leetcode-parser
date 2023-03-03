@@ -1,4 +1,4 @@
-entrypoint = "index.js"
+entrypoint = "InputParser.js"
 
 hidden = [".config", "package-lock.json"]
 

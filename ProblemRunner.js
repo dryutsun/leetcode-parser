@@ -1,3 +1,5 @@
+'use strict'
+
 /** 
     ProblemFactory will:
     - take in your Solution class
